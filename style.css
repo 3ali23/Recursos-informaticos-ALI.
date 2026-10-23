@@ -1,0 +1,54 @@
+body {
+    background-color: aqua;
+    
+}
+p{
+    text-decoration:underline;}
+h1{color: black;} 
+
+table{text-align: center;}
+.PAR{
+    background-color: blueviolet;
+}
+.ISO{
+    background-color: yellow;
+}
+.ING{
+    background-color: violet;
+}
+.HRD{
+    background-color: tomato;
+}
+.EDE{
+    background-color: teal;
+}
+.LM{
+    background-color: chartreuse;
+}
+.GBD{
+    background-color: darkslategray;
+}
+.IP{
+    background-color: sienna;
+}
+.L{
+    background-color: white;
+}
+.M{
+    background-color: white;
+}
+.J{
+    background-color: white;
+}
+.V{
+    background-color: white;
+}
+.MX{
+    background-color: white;
+}
+.P{
+    background-color: white;
+}
+.TB{
+    align-content:center;
+}
